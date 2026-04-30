@@ -13,6 +13,12 @@ Focus on input, condition, loop, and problem-solving.
 - Built loop with sum and average calculation
 - Fixed GitHub authentication using personal access token
 
+### Day2
+- Practiced while loop structure repeatedly
+- Understood break and continue behavior
+- Implemented loop with total and count tracking
+- Verified loop termination with 0 input
+
 ## Rule
 - One commit per day
 - Focus on fundamentals only
