@@ -19,6 +19,11 @@ Focus on input, condition, loop, and problem-solving.
 - Implemented loop with total and count tracking
 - Verified loop termination with 0 input
 
+### Day3
+- Implemented max value finder using loop and condition
+- Learned how to initialize with None
+- Updated max value based on comparison
+
 ## Rule
 - One commit per day
 - Focus on fundamentals only
